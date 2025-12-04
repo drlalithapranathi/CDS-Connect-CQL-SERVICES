@@ -1,0 +1,11 @@
+{
+  "elm_hash": "32a58799fac0fd67dea05f09ad09bf59",
+  "validated_at": "2025-11-27T19:40:33.611847",
+  "result": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "source": "llama",
+    "library": "cond-med-count-r4"
+  }
+}

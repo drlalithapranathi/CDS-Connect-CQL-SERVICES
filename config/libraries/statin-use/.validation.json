@@ -1,0 +1,11 @@
+{
+  "elm_hash": "f9d303749043f0bab028721c5dfb7116",
+  "validated_at": "2025-11-27T03:18:53.088704",
+  "result": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "source": "llama",
+    "library": "statin-use"
+  }
+}
