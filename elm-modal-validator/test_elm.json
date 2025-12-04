@@ -1,0 +1,17 @@
+{
+  "elm_json": {
+    "library": {
+      "identifier": {
+        "id": "StatinTherapy",
+        "version": "1.0.0"
+      },
+      "statements": {
+        "def": [
+          {"name": "InPopulation"},
+          {"name": "Recommendation"}
+        ]
+      }
+    }
+  },
+  "library_name": "StatinTherapy"
+}
